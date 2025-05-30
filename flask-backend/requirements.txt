@@ -1,0 +1,10 @@
+flask==3.0.3
+werkzeug==3.0.3
+transformers==4.44.2
+pymongo==4.8.0
+speechrecognition==3.10.4
+google-api-python-client==2.137.0
+nltk==3.8.1
+moviepy==1.0.3
+pydub==0.25.1
+python-dotenv==1.0.1
